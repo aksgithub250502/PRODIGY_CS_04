@@ -32,7 +32,7 @@ keylog\_YYYY-MM-DD\_HH-MM-SS.txt
 ## 🛠 Installation
 ### 1. Clone the Repository or Download the File
 ```bash
-git clone https://github.com/aksgithub250502/PRODIGY_CS_04/.git
+git clone https://github.com/aksgithub250502/PRODIGY_CS_04.git
 ```
 
 ---
@@ -68,9 +68,9 @@ pip install pynput
 
 ---
 ## 📸 Screenshots
-> ![Simple Keylogger Program](https://github.com/user-attachments/assets/6b063d9f-214d-4fea-8840-228dd218ec44)
+> ![Simple Keylogger Program](https://github.com/user-attachments/assets/017d4d83-c529-4cb0-98b0-401eb3803a46)
 
-> ![Simple Keylogger Output](https://github.com/user-attachments/assets/9d6274d0-75ac-49ac-947c-fb0fb077ae6d)
+> ![Simple Keylogger Output](https://github.com/user-attachments/assets/0f86936b-9a37-4ea4-bd9b-e73f3b28bc13)
 
 ---
 ## 📁 Folder Structure
